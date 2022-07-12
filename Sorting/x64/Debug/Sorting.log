@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OneDrive\Documents\Programming\Data and Algorithms\Sorting\Sorting\Source.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorting.vcxproj -> D:\OneDrive\Documents\Programming\Data and Algorithms\Sorting\x64\Debug\Sorting.exe
